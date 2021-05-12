@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.single{
+  align-items: flex-start;
+  margin: 10px 50px;
+}
+.three-cards{
+  display: flex;
+  /* margin: 0px 100px; */
+}
+
+.final {
+  left: 0%;
+  white-space: nowrap;
+  display:flex;
+  width:50%;
+  margin-left: auto ;
+  margin-right:auto ;
+}
